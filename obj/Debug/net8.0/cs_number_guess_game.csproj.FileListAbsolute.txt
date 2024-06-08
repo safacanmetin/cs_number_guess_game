@@ -1,0 +1,14 @@
+c:\Users\S\Desktop\Projects\VSCODE\cs_number_guess_game\bin\Debug\net8.0\cs_number_guess_game.exe
+c:\Users\S\Desktop\Projects\VSCODE\cs_number_guess_game\bin\Debug\net8.0\cs_number_guess_game.deps.json
+c:\Users\S\Desktop\Projects\VSCODE\cs_number_guess_game\bin\Debug\net8.0\cs_number_guess_game.runtimeconfig.json
+c:\Users\S\Desktop\Projects\VSCODE\cs_number_guess_game\bin\Debug\net8.0\cs_number_guess_game.dll
+c:\Users\S\Desktop\Projects\VSCODE\cs_number_guess_game\bin\Debug\net8.0\cs_number_guess_game.pdb
+c:\Users\S\Desktop\Projects\VSCODE\cs_number_guess_game\obj\Debug\net8.0\cs_number_guess_game.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\S\Desktop\Projects\VSCODE\cs_number_guess_game\obj\Debug\net8.0\cs_number_guess_game.AssemblyInfoInputs.cache
+c:\Users\S\Desktop\Projects\VSCODE\cs_number_guess_game\obj\Debug\net8.0\cs_number_guess_game.AssemblyInfo.cs
+c:\Users\S\Desktop\Projects\VSCODE\cs_number_guess_game\obj\Debug\net8.0\cs_number_guess_game.csproj.CoreCompileInputs.cache
+c:\Users\S\Desktop\Projects\VSCODE\cs_number_guess_game\obj\Debug\net8.0\cs_number_guess_game.dll
+c:\Users\S\Desktop\Projects\VSCODE\cs_number_guess_game\obj\Debug\net8.0\refint\cs_number_guess_game.dll
+c:\Users\S\Desktop\Projects\VSCODE\cs_number_guess_game\obj\Debug\net8.0\cs_number_guess_game.pdb
+c:\Users\S\Desktop\Projects\VSCODE\cs_number_guess_game\obj\Debug\net8.0\cs_number_guess_game.genruntimeconfig.cache
+c:\Users\S\Desktop\Projects\VSCODE\cs_number_guess_game\obj\Debug\net8.0\ref\cs_number_guess_game.dll
